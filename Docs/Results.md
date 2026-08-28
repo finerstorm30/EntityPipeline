@@ -2,7 +2,7 @@
 
 ## Reranker Training
 
-Three main versions of the BERT reranker were evaluated.
+Three versions of the BERT reranker were evaluated and recorded.
 
 ### Summary
 
@@ -163,10 +163,7 @@ V7 achieved the best validation performance of the tested fine-tuning approaches
 
 ### Full Ontology
 
-| Dataset | Hits@5 |
-|---|---:|
-| Validation | TODO |
-| Test | TODO |
+Not tested
 
 ---
 
